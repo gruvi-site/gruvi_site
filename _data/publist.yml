@@ -1,5 +1,45 @@
 
 - title: >-
+    SceneMotifCoder: Example-driven Visual Program Learning for Generating 3D Object Arrangements
+  image: 2025-03-25_509bf7e8-b922-4e77-9840-b4bc43663925.png
+  authors: Hou In Ivan Tam, Hou In Derek Pun, Austin T. Wang, Angel X. Chang, Manolis Savva
+  venue: >-
+    3DV
+  year: 2025
+  highlight: 1
+  pdf: https://arxiv.org/abs/2408.02211
+  project_page: https://3dlg-hcvc.github.io/smc/
+  video: https://www.youtube.com/watch?v=iXsx18R7NN8
+
+
+
+- title: >-
+    An object is worth 64x64 pixels: Generating 3d object via image diffusion
+  image: 2025-03-25_149bceb3-5801-80c9-9844-eceb469cb948.png
+  authors: Xingguang Yan, Han-Hung Lee, Ziyu Wan, Angel X. Chang
+  venue: >-
+    3DV
+  year: 2025
+  highlight: 1
+  pdf: https://arxiv.org/abs/2408.03178
+  project_page: https://omages.github.io/
+
+
+
+- title: >-
+    MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting
+  image: 2024-12-03_1872cc7c-f1d9-42fe-9861-cdef05b31a9d.png
+  authors: Chen Tessler, Yunrong Guo, Ofir Nabati, Gal Chechik, Xue Bin Peng
+  venue: >-
+    SIGGRAPH Asia 2024
+  year: 2024
+  highlight: 1
+  pdf: https://research.nvidia.com/labs/par/maskedmimic/assets/SIGGRAPHAsia2024_MaskedMimic.pdf
+  project_page: https://research.nvidia.com/labs/par/maskedmimic/
+
+
+
+- title: >-
     R3DS: Reality-linked 3D Scenes for Panoramic Scene Understanding
   image: 2024-09-29_20ea0ea9-bfe5-465f-ac7a-4e4423f5fc18.webp
   authors: Qirui Wu, Sonia Raychaudhuri, Daniel Ritchie, Manolis Savva, Angel X. Chang
