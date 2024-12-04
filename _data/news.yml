@@ -12,6 +12,15 @@
 #  image: news_1.PNG
 #  
 
+- date: December 3, 2024
+  headline: >-
+    SIGGRAPH Asia 2024: Spotlight on GruVi Lab
+  text: >-
+    SIGGRAPH Asia 2024, the premier conference on computer graphics, will be taking place from 3 – 6 December 2024 at the Tokyo International Forum (TIF), Tokyo, Japan. GrUVi lab will once again have a good show at SIGGRAPH Asia with 1 technical paper. And Prof. Richard Zhang will be serving as Technical Papers Assistant Chair. Congratulations to all the authors!</p> <p>And here is the accepted paper:</p> <p><a href="https://research.nvidia.com/labs/par/maskedmimic/">MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting</a>
+  highlight: 1
+  image: 24_siga_gruvi.webp
+
+
 - date: September 29, 2024
   headline: >-
     ECCV 2024: Spotlight on Workshops
