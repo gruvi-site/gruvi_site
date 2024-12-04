@@ -27,6 +27,19 @@
 
 
 - title: >-
+    Colorful Diffuse Intrinsic Image Decomposition in the Wild
+  image: 2024-12-03_7a8b8414-c295-4982-9a75-f3fb2bac414b.png
+  authors: Chris Careaga, Yağız Aksoy
+  venue: >-
+    SIGGRAPH Asia
+  year: 2024
+  highlight: 1
+  pdf: https://yaksoy.github.io/ColorfulShading/
+  project_page: https://yaksoy.github.io/ColorfulShading/
+
+
+
+- title: >-
     MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting
   image: 2024-12-03_1872cc7c-f1d9-42fe-9861-cdef05b31a9d.png
   authors: Chen Tessler, Yunrong Guo, Ofir Nabati, Gal Chechik, Xue Bin Peng
