@@ -33,6 +33,9 @@ The textural data is stored in _data folder and images in images folder.~~
 To build the website locally for faster iteration (github auto CI's speed is slow due to heavy upload), you can use jekyll-docker. After you pulled the jekyll docker image, you can just run `bash docker_build.sh` in the `scripts` folder to build the website and view the built site in `_site` folder. More information about jekyll-docker can be found [here](https://github.com/envygeeks/jekyll-docker/blob/master/README.md)
 
 ## Update
+
+As of 2024-12-03, only the publication auto-synce is enabled. Use `python scripts/site_updater.py` to fetch the publication records to this repo. For news, please first finish editing on notion (since it is much easier to directly write HTML code in `_data/news.yml`), and then convert it to html (using https://markdowntohtml.com/), copy to the browser's address/URL bar to make the html single line. Then copy the single line html to the correct location in `_data/news.yml`. Notice that you shall remove the initial `<p>` and the ending `</p>` since the server will automatically add them.
+
 As of 2023-06-12, we adopt notion databases to store our new publication data. Notion databases is much easier to manage and very friendly for multi-user editing.
 The notion homepage for our website is [here](https://www.notion.so/yanxg/SFU-GrUVi-Website-Databases-052be593dbe246668fdb123b682debb8).
 Some scripts for fetching notion data to the website repo can be found in the `scripts` folder.
